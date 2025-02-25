@@ -18,6 +18,6 @@ A lightweight, custom implementation of a dynamic string class in C++ (similar t
 ---
 
 ## Installation
-This is a **header-only library**. Simply include `String.h` in your project:
+This is a **header-only library**. Simply #include "MyString.h" in your project:
 ```cpp
-#include "String.h"
+#include "MyString.h"
